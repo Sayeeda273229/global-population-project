@@ -49,4 +49,4 @@ This was a hands-on challenge in managing messy real-world data, debugging class
 
 ---
 
-*Built with Python, frustration, debugging, and coffee.*
+
